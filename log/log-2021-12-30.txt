@@ -1,0 +1,11 @@
+ERROR - 2021-12-30 05:23:24 --> Severity: Warning --> file(./log/log2021.log): Failed to open stream: No such file or directory C:\xampp\htdocs\cli\application\controllers\Cli.php 16
+ERROR - 2021-12-30 05:25:19 --> Severity: Warning --> file(./log/): Failed to open stream: No such file or directory C:\xampp\htdocs\cli\application\controllers\Cli.php 16
+ERROR - 2021-12-30 05:31:09 --> Severity: error --> Exception: fopen() expects at least 2 arguments, 1 given C:\xampp\htdocs\cli\application\controllers\Cli.php 49
+ERROR - 2021-12-30 05:43:15 --> Severity: Warning --> file(./log/error.log): Failed to open stream: No such file or directory C:\xampp\htdocs\cli\application\controllers\Cli.php 74
+ERROR - 2021-12-30 05:43:19 --> Severity: Warning --> file(./log/error.log): Failed to open stream: No such file or directory C:\xampp\htdocs\cli\application\controllers\Cli.php 74
+ERROR - 2021-12-30 05:45:25 --> Severity: Warning --> fopen(C:reslog054525.txt): Failed to open stream: Permission denied C:\xampp\htdocs\cli\application\controllers\Cli.php 86
+ERROR - 2021-12-30 05:45:25 --> Severity: error --> Exception: fwrite(): Argument #1 ($stream) must be of type resource, bool given C:\xampp\htdocs\cli\application\controllers\Cli.php 91
+ERROR - 2021-12-30 05:52:08 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ")", expecting ")" C:\xampp\htdocs\cli\application\controllers\Cli.php 72
+ERROR - 2021-12-30 05:57:43 --> Severity: error --> Exception: syntax error, unexpected token "echo" C:\xampp\htdocs\cli\application\controllers\Cli.php 67
+ERROR - 2021-12-30 05:58:09 --> Severity: error --> Exception: syntax error, unexpected identifier "C", expecting ")" C:\xampp\htdocs\cli\application\controllers\Cli.php 121
+ERROR - 2021-12-30 05:58:53 --> Severity: error --> Exception: explode() expects at least 2 arguments, 1 given C:\xampp\htdocs\cli\application\controllers\Cli.php 67
