@@ -12,7 +12,7 @@ Bantuan : dengan command php index.php cli main -h
 Contoh penggunaan :
 * php index.php cli main -h ==> untuk melihat bantuan penggunaan
 * php index.php cli main -o json error.log "C:\Users\User\Documents" ==> menyimpan error.log dalam format json ke dalam folder yang ditentukan user
-* php index.php cli main -t json error.log ==> menyimpan error.log dalam format json ke folder default (project/log)
+* php index.php cli main -t json error.log ==> menyimpan error.log dalam format json ke folder default (<b>NAMA PROJECT</b>project/log)
 
 Catatan :
 * Lokasi folder file log yang ingin di gunakan dapat di inisialisasi sendiri oleh user pada bagian variable <b>$placelog</b>
