@@ -9,3 +9,5 @@ ERROR - 2021-12-30 05:52:08 --> Severity: error --> Exception: syntax error, une
 ERROR - 2021-12-30 05:57:43 --> Severity: error --> Exception: syntax error, unexpected token "echo" C:\xampp\htdocs\cli\application\controllers\Cli.php 67
 ERROR - 2021-12-30 05:58:09 --> Severity: error --> Exception: syntax error, unexpected identifier "C", expecting ")" C:\xampp\htdocs\cli\application\controllers\Cli.php 121
 ERROR - 2021-12-30 05:58:53 --> Severity: error --> Exception: explode() expects at least 2 arguments, 1 given C:\xampp\htdocs\cli\application\controllers\Cli.php 67
+ERROR - 2021-12-30 06:30:19 --> Severity: Warning --> fopen(/reslog063019.json): Failed to open stream: Permission denied C:\xampp\htdocs\cli\application\controllers\Cli.php 102
+ERROR - 2021-12-30 06:30:19 --> Severity: error --> Exception: fwrite(): Argument #1 ($stream) must be of type resource, bool given C:\xampp\htdocs\cli\application\controllers\Cli.php 106

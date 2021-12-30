@@ -65,9 +65,9 @@ class Cli extends CI_Controller {
 		elseif($p == '-o')
 		{
 			// cek param file
-			if($f == '')
+			if($f == '' || $pl == '')
 			{
-				echo 'Nama file tidak boleh kosong! Gunakan -h untuk bantuan.';
+				echo 'Nama file dan lokasi folder tidak boleh kosong! Gunakan -h untuk bantuan.';
 			}
 			else{
 				// read file
