@@ -16,6 +16,5 @@ Contoh penggunaan :
 
 Catatan :
 * Lokasi folder file log yang ingin di gunakan dapat di inisialisasi sendiri oleh user pada bagian variable <b>$placelog</b>
-* 
 
 Credit : Muhammad Ivan Fadillah
